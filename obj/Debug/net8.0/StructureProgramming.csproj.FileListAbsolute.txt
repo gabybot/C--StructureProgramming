@@ -1,0 +1,14 @@
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.exe
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.deps.json
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.runtimeconfig.json
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.dll
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\bin\Debug\net8.0\StructureProgramming.pdb
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.AssemblyInfoInputs.cache
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.AssemblyInfo.cs
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.csproj.CoreCompileInputs.cache
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.dll
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\refint\StructureProgramming.dll
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.pdb
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\StructureProgramming.genruntimeconfig.cache
+C:\Users\gabit\source\repos\cleanArchitecture\StructureProgramming\obj\Debug\net8.0\ref\StructureProgramming.dll
